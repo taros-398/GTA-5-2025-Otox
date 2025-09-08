@@ -80,3 +80,4 @@ Packed with powerful features like **God Mode, Money/XP Boost, Vehicle Spawner, 
 | **Can I use online?**            | Yes, works in Online & Story (use safe mode).   |
 | **Does it unlock everything?**   | Yes, all cars, outfits, weapons & stats.        |
 | **Support?**                     | Available via modding community.                |
+ 
